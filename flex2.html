@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<nav>, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .a1,a{
+            text-decoration: none;
+        }
+        .blue {
+            background-color: blue;
+        }
+
+        .centertext {
+            text-align: center;
+        }
+
+        p.important {
+            border: 1px solid black;
+            border-width: 5px 8px 3px 9px;
+        }
+
+        .center {
+            display: block;
+            margin: auto;
+
+        }
+
+        img {
+            margin: auto;
+        }
+
+        img:hover {
+            opacity: 0.5;
+            filter: alpha(opacity=50);
+        }
+
+        p {
+            text-transform: uppercase;
+        }
+
+        .flex-container {
+            display: flex;
+            background-color: dodgerblue;
+            padding: 10px;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .flex-container>a {
+            background-color: blueviolet;
+            margin: 10px;
+            padding: 20px;
+            font-size: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="a1">
+        <a href="">Anasayfa</a>
+        <a href="">Hakkında</a>
+        <a href="">İletişim</a>
+    </nav>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCrleI-nR0zxS0JlYEGOWCxqYW4AJHZtYz_VRgp8bA&s" alt=""
+        class="center">
+    <p class="blue">Mavi</p>
+    <p class="centertext">Center</p>
+    <p class="blue centertext">Hem mavi hem center</p>
+    <p class="important centertext uppercase">Önemli</p>
+    <div class="flex-container h-200px">
+        <a>Başlık 1</a>
+        <a>Başlık 2</a>
+        <a>Başlık 3</a>
+    </div>
+    <div class="col">
+        <a style="flex-grow: 1;" class="child">1</a>
+        <a style="flex-grow: 1;" class="child">2</a>
+        <a style="flex-grow: 8;" class="child">3</a>
+
+    </div>
+</body>
+
+</html>
