@@ -1,8 +1,31 @@
-# Html
-<br>
-<p>
-Bu repository, HTML ile oluşturulmuş projeleri ve çalışmalarını içermektedir. HTML, web sayfalarının yapı taşlarını oluşturmak için kullanılan bir dildir. Bu repository'de, form yapıları, multimedya entegrasyonu ve temel web sayfası tasarımları üzerine çalışmalar bulabilirsiniz.
-</p> <br>
+# 🌐 HTML Projects Repository
 
-### Benimle iletişime geçebilirsiniz
-E-posta: mezgialtintas@gmail.com
+Bu repository, **HTML** kullanılarak geliştirilmiş projeleri ve çalışmaları içermektedir.  
+HTML, web sayfalarının **temel yapı taşlarını** oluşturan bir işaretleme dilidir.  
+
+Bu repo içerisinde:  
+- 📄 **Form Yapıları**  
+- 🎨 **Temel Web Sayfası Tasarımları**  
+
+örneklerini bulabilirsiniz.  
+
+---
+
+## 📂 İçerik
+- 🔹 **Basit Web Sayfaları** – Başlangıç seviyesinde HTML örnekleri  
+- 🔹 **Form Projeleri** – Input, checkbox, radio button, textarea  
+- 🔹 **Multimedya** – Görsel, ses ve video entegrasyonu  
+- 🔹 **Tablo & Liste Kullanımı** – Düzenli veri gösterimleri  
+- 🔹 **Mini Projeler** – Portföy sayfası, blog tasarımı vb.  
+
+---
+
+## 🛠 Kullanılan Teknolojiler
+- HTML  
+- CSS 
+- JavaScript (dinamizm için opsiyonel)  
+
+---
+
+## 📬 İletişim
+💌 Bana ulaşmak için: **mezgialtintas@gmail.com**
